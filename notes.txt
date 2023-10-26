@@ -1,0 +1,4 @@
+2 main options for hosting Next.js apps (Node.js apps):
+
+- PaaS like Vercel
+- VPS
